@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![I am a software developer]
 
-I am **Amadou Diao** from Senegal🇸🇳 and I am a 27-year-old young man curious, dynamic and above all passionate about everything related to games.
+I am **Papa matar FALL** from Senegal🇸🇳 and I am a young man curious, dynamic and above all passionate about everything related to games.
 
 Motivated and qualified software engineer with comprehensive expertise in web development. Currently, I am enhancing my skills through a self-taught training in Python and computer vision, reflecting my commitment to staying at the forefront of technology. I am passionate about exploring new challenges and solving complex problems, and I excel in adapting to new environments and collaborating with diverse teams. I am eager to contribute to an innovative company in the IT field, where I can leverage my skills and dedication to tackle exciting new challenges and drive technological advancements.
 
