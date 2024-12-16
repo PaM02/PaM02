@@ -19,11 +19,11 @@ Motivated and qualified software engineer with comprehensive expertise in web de
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh785)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuni77&show_icons=true&count_private=true&theme=merko&border_radius=15&hide_border=true&langs_count=10)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&count_private=true&theme=merko&border_radius=15&hide_border=true&langs_count=10)  
 
 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Kuni77) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/pam02) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kuni77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amadou-diao-674b18238/)
 
