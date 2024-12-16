@@ -21,8 +21,8 @@ Motivated and qualified software engineer with comprehensive expertise in web de
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&count_private=true&theme=merko&border_radius=15&hide_border=true&langs_count=10)  
 
 
-
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/pam02) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;
+<!--
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/pam02) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;-->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pam02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/papa-matar-fall-9797921a2/)
 
