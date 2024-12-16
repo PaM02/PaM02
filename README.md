@@ -7,11 +7,11 @@ Motivated and qualified software engineer with comprehensive expertise in web de
 
 |         Language   |     Game engine       |     Modelisation & design |          Tools  |
 |--------------------|:-------------------:|--------------:|:------------------------------|
-|           C#       |Unity                |UML            |         Intelij               |
-|          C         |                     |     FIGMA     |         Vs Code               |
-|   C++              |                     |     CANVA     |    Microsoft Vs               |
-|     Java           |                     | Blender       |     Github                    |  
-|        Python            |                     |               |                               |  
+|   Spring boot      |Unity                |UML            |         Intelij               |
+|         Angular    |                     |     FIGMA     |         Vs Code               |
+|     Java           |                     |               |     Intelij                   |
+|        Flutter     |                     |               |          Android Studio       |  
+|        Laravel     |                     |               |                               |  
 - 🔭 I’m currently working on Angular, Spring boot and Jenkins. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Mangas | Games | Programmation | Animes
