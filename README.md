@@ -1,33 +1,75 @@
-## Hi there 👋
-![I am a software developer]
+Voici un exemple de **README.md** pour te décrire en tant que développeur sur GitHub. Je l'ai personnalisé en fonction de ton profil et de ton parcours. Tu pourras l'ajuster si besoin.
 
-I am **Papa matar FALL** from Senegal🇸🇳 and I am a young man curious, dynamic and above all passionate about everything related to games.
+---
 
-Motivated and qualified software engineer with comprehensive expertise in web development. Currently, I am enhancing my skills through a self-taught training in Python and computer vision, reflecting my commitment to staying at the forefront of technology. I am passionate about exploring new challenges and solving complex problems, and I excel in adapting to new environments and collaborating with diverse teams. I am eager to contribute to an innovative company in the IT field, where I can leverage my skills and dedication to tackle exciting new challenges and drive technological advancements.
+# 👋 Salut, moi c'est **Papa Matar Fall**  
 
-|         Language   |     Game engine       |     Modelisation & design |          Tools  |
-|--------------------|:-------------------:|--------------:|:------------------------------|
-|   Spring boot      |Unity                |UML            |         Intelij               |
-|         Angular    |                     |     FIGMA     |         Vs Code               |
-|     Java           |                     |               |     Intelij                   |
-|        Flutter     |                     |               |          Android Studio       |  
-|        Laravel     |                     |               |                               |  
-- 🔭 I’m currently working on Angular, Spring boot and Jenkins. 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Mangas | Games | Programmation | Animes
+🚀 **Ingénieur en informatique** passionné par le développement d'applications **Web** et **Mobiles**.  
+🌍 Je suis actuellement basé au **Sénégal** et j'explore des opportunités pour collaborer sur des projets innovants.  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheikh785)](https://github.com/anuraghazra/github-readme-stats) -->
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&count_private=true&theme=merko&border_radius=15&hide_border=true&langs_count=10)  
+## 💼 **À propos de moi**
 
+- 🎓 **Expérience** : Plus de **3 ans** dans le développement de solutions avec **Java**, **Spring Boot** et **Angular**.  
+- 💻 **Spécialités** :  
+  - Back-end : **Java | Spring Boot | REST APIs**  
+  - Front-end : **Angular | HTML | CSS | JavaScript**  
+  - Mobile : **Android**  
+  - CI/CD : **Jenkins | Docker | Git**  
+- 🌐 **Serveurs & Déploiement** : **Tomcat | SFTP | FTPS | AWS**  
 
-<!--
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/pam02) &nbsp;&nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/Kuni77)  &nbsp;&nbsp;&nbsp;   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) &nbsp;&nbsp;&nbsp;-->
+- 🤝 Je suis ouvert aux collaborations pour des projets qui me permettront d'exploiter mes compétences techniques tout en apprenant de nouvelles technologies.  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pam02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/papa-matar-fall-9797921a2/)
+---
 
->Made with :heart: by pam02.
-<!---
-Cheikh785/Cheikh785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 **Compétences Techniques**
+
+| **Technologies**        | **Niveau**        |
+|--------------------------|-------------------|
+| Java & Spring Boot       | ⭐⭐⭐⭐⭐           |
+| Angular                  | ⭐⭐⭐⭐            |
+| Jenkins & Docker         | ⭐⭐⭐             |
+| Android                  | ⭐⭐⭐⭐            |
+| SGBD (MySQL, PostgreSQL) | ⭐⭐⭐⭐            |
+| Git & CI/CD              | ⭐⭐⭐⭐            |
+
+---
+
+## 🌟 **Projets Réalisés**
+
+### 🔹 **1. Application de gestion des compteurs électriques**  
+- **Technos** : Spring Boot, Angular, Jenkins, Tomcat  
+- **Description** : Développement d'une application full-stack pour la gestion et le suivi des compteurs électriques avec des données horodatées.  
+
+### 🔹 **2. Intégration de solutions domotiques**  
+- **Technos** : Java, Android, Web  
+- **Entreprise** : CISIX  
+- **Description** : Développement d'une solution permettant l'intégration et la gestion de systèmes domotiques intelligents.
+
+---
+
+## 🌐 **Me contacter**  
+
+- 💼 **LinkedIn** : [Papa Matar Fall](https://linkedin.com/)  
+- 📧 **Email** : [tonemail@gmail.com](mailto:tonemail@gmail.com)  
+- 🔗 **Portfolio** : [En cours de construction...]  
+
+---
+
+## 🚀 **Objectif Actuel**
+
+Je suis à la recherche d'opportunités pour collaborer sur des **projets Web et Mobile**, tout en continuant à développer mes compétences et à résoudre des défis complexes.  
+
+---
+
+**Merci de visiter mon profil GitHub !** 😊  
+_N'hésite pas à me contacter pour discuter d'un projet ou simplement échanger._
+
+---  
+
+Pour intégrer cela dans ton GitHub :  
+1. Crée un fichier nommé **README.md** à la racine de ton profil GitHub.  
+2. Colle ce contenu.  
+
+Si tu souhaites ajouter des projets ou ajuster quelque chose, je suis là pour t'aider ! 🚀
