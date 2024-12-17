@@ -1,7 +1,3 @@
-Voici un exemple de **README.md** pour te décrire en tant que développeur sur GitHub. Je l'ai personnalisé en fonction de ton profil et de ton parcours. Tu pourras l'ajuster si besoin.
-
----
-
 # 👋 Salut, moi c'est **Papa Matar Fall**  
 
 🚀 **Ingénieur en informatique** passionné par le développement d'applications **Web** et **Mobiles**.  
@@ -51,7 +47,7 @@ Voici un exemple de **README.md** pour te décrire en tant que développeur sur 
 
 ## 🌐 **Me contacter**  
 
-- 💼 **LinkedIn** : [Papa Matar Fall](https://linkedin.com/)  
+- 💼 **LinkedIn** : [Papa Matar Fall](https://www.linkedin.com/in/papa-matar-fall-9797921a2/)  
 - 📧 **Email** : [tonemail@gmail.com](mailto:tonemail@gmail.com)  
 - 🔗 **Portfolio** : [En cours de construction...]  
 
@@ -65,11 +61,3 @@ Je suis à la recherche d'opportunités pour collaborer sur des **projets Web et
 
 **Merci de visiter mon profil GitHub !** 😊  
 _N'hésite pas à me contacter pour discuter d'un projet ou simplement échanger._
-
----  
-
-Pour intégrer cela dans ton GitHub :  
-1. Crée un fichier nommé **README.md** à la racine de ton profil GitHub.  
-2. Colle ce contenu.  
-
-Si tu souhaites ajouter des projets ou ajuster quelque chose, je suis là pour t'aider ! 🚀
