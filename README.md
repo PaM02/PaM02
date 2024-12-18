@@ -13,10 +13,7 @@
   
 - 📫 How to reach me **matar0236@gmail.com**
   
-- ⚡ Fun fact: Mangas | 🎮 ![GAME](https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat) | Programmation | Animes
-- <a href="https://myanimelist.net/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="Manga" width="40" height="40"/>
-</a>
+- ⚡ Fun fact: Mangas | Games | Programmation | Animes
 <a href="https://www.example.com/jeux-video" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat" alt="GAME" />
 </a>
