@@ -1,9 +1,9 @@
-<h1 align="center">Hi 😁, I'm Amadou Diao</h1>
+<h1 align="center">Hi 😁, I'm Papa matar FALL</h1>
 <h3 align="center">A passionate software engineer from Sénégal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuni77&label=Profile%20views&color=0e75b6&style=flat" alt="kuni77" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pam02&label=Profile%20views&color=0e75b6&style=flat" alt="pam02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuni77" alt="kuni77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pam02" alt="pam02" /></a> </p>
 
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
   
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itkuni77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itkuni77" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amadou-diao-674b18238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/amadou-diao-674b18238" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/papa-matar-fall-9797921a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/papa-matar-fall-9797921a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -85,8 +85,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuni77&show_icons=true&locale=en&layout=compact" alt="kuni77" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pam02&show_icons=true&locale=en&layout=compact" alt="pam02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuni77&show_icons=true&locale=en" alt="kuni77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&locale=en" alt="pam02" /></p>
 
 >Made with :heart: by Kuni77.
