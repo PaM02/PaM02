@@ -83,8 +83,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pam02&show_icons=true&locale=en&layout=compact" alt="pam02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&locale=en" alt="pam02" /></p>
 
 >Made with :heart: by pam02.
