@@ -14,9 +14,6 @@
 - 📫 How to reach me **matar0236@gmail.com**
   
 - ⚡ Fun fact: Mangas | Games | Programmation | Animes
-<a href="https://www.example.com/jeux-video" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat" alt="GAME" />
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
