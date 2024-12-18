@@ -7,19 +7,17 @@
 
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
   
-- 🌱 I’m currently learning Python and Computer vision.
-  
 - 😄 Pronouns: he/him
   
-- 💬 Ask me about **angular, spring-boot, flutter, C, data structures**
+- 💬 Ask me about **angular, spring-boot, flutter, laravel**
   
-- 📫 How to reach me **amadoudiao72@gmail.com**
+- 📫 How to reach me **matar0236@gmail.com**
   
-- ⚡ Fun fact: Chess | Mangas | Games | Programmation | Animes
+- ⚡ Fun fact: Mangas | Games | Programmation | Animes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itkuni77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itkuni77" height="30" width="40" /></a>
+<a href="https://x.com/pamatarfall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itkuni77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/papa-matar-fall-9797921a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/papa-matar-fall-9797921a2/" height="30" width="40" /></a>
 </p>
 
@@ -89,4 +87,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pam02&show_icons=true&locale=en" alt="pam02" /></p>
 
->Made with :heart: by Kuni77.
+>Made with :heart: by pam02.
