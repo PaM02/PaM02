@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
   
 - 😄 Pronouns: he/him
-  
+- 🌱 I’m currently learning DevOps. 
 - 💬 Ask me about **angular, spring-boot, flutter, laravel**
   
 - 📫 How to reach me **matar0236@gmail.com**
