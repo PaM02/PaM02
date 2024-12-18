@@ -13,7 +13,7 @@
   
 - 📫 How to reach me **matar0236@gmail.com**
   
-- ⚡ Fun fact: Mangas | Games | Programmation | Animes
+- ⚡ Fun fact: Mangas | 🎮 ![GAME](https://img.shields.io/badge/-Jeux_Vidéo-1F8B4C?style=flat) | Programmation | Animes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
